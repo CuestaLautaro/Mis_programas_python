@@ -8,7 +8,7 @@ Cada uno de estos proyectos representa un paso en mi desarrollo como programador
 ---
 ### Proyectos incluidos:
 - Programa para identificar vocales
-- (Agrega más proyectos aquí a medida que los subas)
+- Programa para sumar o multiplicar una lista de numeros
 
 ---
 
