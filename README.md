@@ -10,6 +10,7 @@ Cada uno de estos proyectos representa un paso en mi desarrollo como programador
 - Programa para identificar vocales
 - Programa para sumar o multiplicar una lista de numeros
 - Programa para invertir una cadena de letras
+- Programa que reconoce palindromos
 
 ---
 
