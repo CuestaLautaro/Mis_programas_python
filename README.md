@@ -13,6 +13,7 @@ Cada uno de estos proyectos representa un paso en mi desarrollo como programador
 - Programa que reconoce palindromos
 - Programa que detecta al menos 1 miembro en común en dos listas
 - Programa que  toma un entero n y devuelva el caracter multiplicado por n.
+- Programa para generar contraseñas seguras a traves de un menu interactivo, tomando estandares tipicos que garantizan seguridad al usuario.
 
 ---
 
