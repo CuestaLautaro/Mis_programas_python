@@ -12,6 +12,7 @@ Cada uno de estos proyectos representa un paso en mi desarrollo como programador
 - Programa para invertir una cadena de letras
 - Programa que reconoce palindromos
 - Programa que detecta al menos 1 miembro en común en dos listas
+- Programa que  toma un entero n y devuelva el caracter multiplicado por n.
 
 ---
 
